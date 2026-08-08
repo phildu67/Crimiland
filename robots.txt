@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://phildu67.github.io/Crimiland/sitemap.xml
